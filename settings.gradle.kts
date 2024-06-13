@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Application androidE5"
+rootProject.name = "Ivelty"
 include(":app")
  
